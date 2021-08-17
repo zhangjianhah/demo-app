@@ -8,6 +8,7 @@
 3. 使用rekit构建服务并运行
 
 ````
+rekit create app-name
 cd app-name
 npm install
 npm start
